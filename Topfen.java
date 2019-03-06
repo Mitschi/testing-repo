@@ -7,4 +7,7 @@ public Integer num=5;
   public void cook(){
     num++;
   }
+  public void emptyfridge(){
+   num=0;
+  }
 }
