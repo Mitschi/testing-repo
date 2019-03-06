@@ -4,4 +4,7 @@ public Integer num=5;
   {
     num--;
   }
+  public void cook(){
+    num++;
+  }
 }
