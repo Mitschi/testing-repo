@@ -1,5 +1,7 @@
 public class Topfen {
-public Integer num=5;
+  public Integer num=5;
+  public Boolean hungry=false;
+
   public void eat()
   {
     num--;
