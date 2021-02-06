@@ -10,5 +10,4 @@ public class Foo {
   public void hello() {
     int x=1;
   }
-  private String test="";
 }
