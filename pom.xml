@@ -24,7 +24,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- allowed values: R7, 1.0, 1.5, 2.0 or none -->
         <wtp.version>none</wtp.version>
-        <spring.version>4.2.6.RELEASE</spring.version>
+        <spring.version>5.3.3</spring.version>
         <spring.data.version>1.10.1.RELEASE</spring.data.version>
         <hibernate.version>5.1.0.Final</hibernate.version>
         <pg.version>9.4-1206-jdbc4</pg.version>
