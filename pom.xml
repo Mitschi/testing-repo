@@ -18,6 +18,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <testprop>asdf</testprop>
+        <xxx>asdf</xxx>
     </properties>
     <dependencies>
         <dependency>
